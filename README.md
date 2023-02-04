@@ -1,2 +1,3 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+Created by: Katherine Groppe
+Project: Assignment Portfolio
+Template from Eric Pogue Static Webpage Template
