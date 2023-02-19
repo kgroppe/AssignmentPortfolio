@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Copperplate, Papyrus, fantasy;
   background-color: cornsilk;
@@ -16,3 +17,20 @@ font-size: large;
 ul{
 font-weight: bold
 }
+=======
+body {
+  font-family: Copperplate, Papyrus, fantasy;
+  background-color: cornsilk;
+
+}
+
+h1{
+text-align: center;
+background-color: coral;
+}
+
+a{
+font-size: large;
+
+}
+>>>>>>> bb5a557a570e941b65d7e2b304720c55126f7bc6
